@@ -3,6 +3,8 @@ public class HelloWorld {
 
         System.out.println("Hello World");
         String name="Yahya";
+        System.out.println(name);
+
 
 
     }
